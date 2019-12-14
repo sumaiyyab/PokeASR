@@ -1,0 +1,21 @@
+tools/sources used:
+	linux/virtualbox
+	htk
+	dr koos labs
+
+steps taken:
+	generate training (20?)
+	make grammar using htk (hmm toolkit)
+		hparse -> word net
+	make pronunciation dictionary using cmu
+	generate test prompts using hsgen
+
+current limitations:
+	less training data 
+		probs just my own voice 
+	not very natural language
+		have to follow VERY specific grammar outlined in poke.grammar
+
+TODO
+	record training data
+	

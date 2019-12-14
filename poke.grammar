@@ -1,0 +1,13 @@
+$base = ( ( SUSHI | BROWN ) RICE ) | SALAD;
+
+$protein = SALMON | TUNA | SHRIMP;
+
+$mixin = CUCUMBER | GREEN-ONION | ONION;
+
+$sauce = SHOYU | CHILI | PONZU;
+
+$topping = GINGER | CRAB-SALAD | AVOCADO;
+
+$finish = SESAME-SEEDS | FURIKAKE | FRIED-ONION;
+
+( SENT-START $base BOWL WITH ( $protein [$protein] [$protein] ) MIXIN ( $mixin [$mixin] [$mixin] ) AND ( $sauce [$sauce] [$sauce] ) TOP WITH ( $topping [$topping] [$topping] ) AND ( $finish [$finish] [$finish] ) SENT-END )

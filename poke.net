@@ -1,0 +1,212 @@
+VERSION=1.0
+N=77   L=133  
+I=0    W=SENT-END            
+I=1    W=FRIED-ONION         
+I=2    W=!NULL               
+I=3    W=FURIKAKE            
+I=4    W=SESAME-SEEDS        
+I=5    W=FRIED-ONION         
+I=6    W=!NULL               
+I=7    W=FURIKAKE            
+I=8    W=SESAME-SEEDS        
+I=9    W=FRIED-ONION         
+I=10   W=!NULL               
+I=11   W=FURIKAKE            
+I=12   W=SESAME-SEEDS        
+I=13   W=AND                 
+I=14   W=AVOCADO             
+I=15   W=!NULL               
+I=16   W=CRAB-SALAD          
+I=17   W=GINGER              
+I=18   W=AVOCADO             
+I=19   W=!NULL               
+I=20   W=CRAB-SALAD          
+I=21   W=GINGER              
+I=22   W=AVOCADO             
+I=23   W=!NULL               
+I=24   W=CRAB-SALAD          
+I=25   W=GINGER              
+I=26   W=WITH                
+I=27   W=TOP                 
+I=28   W=PONZU               
+I=29   W=!NULL               
+I=30   W=CHILI               
+I=31   W=SHOYU               
+I=32   W=PONZU               
+I=33   W=!NULL               
+I=34   W=CHILI               
+I=35   W=SHOYU               
+I=36   W=PONZU               
+I=37   W=!NULL               
+I=38   W=CHILI               
+I=39   W=SHOYU               
+I=40   W=AND                 
+I=41   W=ONION               
+I=42   W=!NULL               
+I=43   W=GREEN-ONION         
+I=44   W=CUCUMBER            
+I=45   W=ONION               
+I=46   W=!NULL               
+I=47   W=GREEN-ONION         
+I=48   W=CUCUMBER            
+I=49   W=ONION               
+I=50   W=!NULL               
+I=51   W=GREEN-ONION         
+I=52   W=CUCUMBER            
+I=53   W=MIXIN               
+I=54   W=SHRIMP              
+I=55   W=!NULL               
+I=56   W=TUNA                
+I=57   W=SALMON              
+I=58   W=SHRIMP              
+I=59   W=!NULL               
+I=60   W=TUNA                
+I=61   W=SALMON              
+I=62   W=SHRIMP              
+I=63   W=!NULL               
+I=64   W=TUNA                
+I=65   W=SALMON              
+I=66   W=WITH                
+I=67   W=BOWL                
+I=68   W=SALAD               
+I=69   W=!NULL               
+I=70   W=RICE                
+I=71   W=BROWN               
+I=72   W=!NULL               
+I=73   W=SUSHI               
+I=74   W=SENT-START          
+I=75   W=!NULL               
+I=76   W=!NULL               
+J=0     S=2    E=0    
+J=1     S=6    E=0    
+J=2     S=10   E=0    
+J=3     S=6    E=1    
+J=4     S=10   E=1    
+J=5     S=1    E=2    
+J=6     S=3    E=2    
+J=7     S=4    E=2    
+J=8     S=6    E=3    
+J=9     S=10   E=3    
+J=10    S=6    E=4    
+J=11    S=10   E=4    
+J=12    S=10   E=5    
+J=13    S=5    E=6    
+J=14    S=7    E=6    
+J=15    S=8    E=6    
+J=16    S=10   E=7    
+J=17    S=10   E=8    
+J=18    S=13   E=9    
+J=19    S=9    E=10   
+J=20    S=11   E=10   
+J=21    S=12   E=10   
+J=22    S=13   E=11   
+J=23    S=13   E=12   
+J=24    S=15   E=13   
+J=25    S=19   E=13   
+J=26    S=23   E=13   
+J=27    S=19   E=14   
+J=28    S=23   E=14   
+J=29    S=14   E=15   
+J=30    S=16   E=15   
+J=31    S=17   E=15   
+J=32    S=19   E=16   
+J=33    S=23   E=16   
+J=34    S=19   E=17   
+J=35    S=23   E=17   
+J=36    S=23   E=18   
+J=37    S=18   E=19   
+J=38    S=20   E=19   
+J=39    S=21   E=19   
+J=40    S=23   E=20   
+J=41    S=23   E=21   
+J=42    S=26   E=22   
+J=43    S=22   E=23   
+J=44    S=24   E=23   
+J=45    S=25   E=23   
+J=46    S=26   E=24   
+J=47    S=26   E=25   
+J=48    S=27   E=26   
+J=49    S=29   E=27   
+J=50    S=33   E=27   
+J=51    S=37   E=27   
+J=52    S=33   E=28   
+J=53    S=37   E=28   
+J=54    S=28   E=29   
+J=55    S=30   E=29   
+J=56    S=31   E=29   
+J=57    S=33   E=30   
+J=58    S=37   E=30   
+J=59    S=33   E=31   
+J=60    S=37   E=31   
+J=61    S=37   E=32   
+J=62    S=32   E=33   
+J=63    S=34   E=33   
+J=64    S=35   E=33   
+J=65    S=37   E=34   
+J=66    S=37   E=35   
+J=67    S=40   E=36   
+J=68    S=36   E=37   
+J=69    S=38   E=37   
+J=70    S=39   E=37   
+J=71    S=40   E=38   
+J=72    S=40   E=39   
+J=73    S=42   E=40   
+J=74    S=46   E=40   
+J=75    S=50   E=40   
+J=76    S=46   E=41   
+J=77    S=50   E=41   
+J=78    S=41   E=42   
+J=79    S=43   E=42   
+J=80    S=44   E=42   
+J=81    S=46   E=43   
+J=82    S=50   E=43   
+J=83    S=46   E=44   
+J=84    S=50   E=44   
+J=85    S=50   E=45   
+J=86    S=45   E=46   
+J=87    S=47   E=46   
+J=88    S=48   E=46   
+J=89    S=50   E=47   
+J=90    S=50   E=48   
+J=91    S=53   E=49   
+J=92    S=49   E=50   
+J=93    S=51   E=50   
+J=94    S=52   E=50   
+J=95    S=53   E=51   
+J=96    S=53   E=52   
+J=97    S=55   E=53   
+J=98    S=59   E=53   
+J=99    S=63   E=53   
+J=100   S=59   E=54   
+J=101   S=63   E=54   
+J=102   S=54   E=55   
+J=103   S=56   E=55   
+J=104   S=57   E=55   
+J=105   S=59   E=56   
+J=106   S=63   E=56   
+J=107   S=59   E=57   
+J=108   S=63   E=57   
+J=109   S=63   E=58   
+J=110   S=58   E=59   
+J=111   S=60   E=59   
+J=112   S=61   E=59   
+J=113   S=63   E=60   
+J=114   S=63   E=61   
+J=115   S=66   E=62   
+J=116   S=62   E=63   
+J=117   S=64   E=63   
+J=118   S=65   E=63   
+J=119   S=66   E=64   
+J=120   S=66   E=65   
+J=121   S=67   E=66   
+J=122   S=69   E=67   
+J=123   S=74   E=68   
+J=124   S=68   E=69   
+J=125   S=70   E=69   
+J=126   S=72   E=70   
+J=127   S=74   E=71   
+J=128   S=71   E=72   
+J=129   S=73   E=72   
+J=130   S=74   E=73   
+J=131   S=76   E=74   
+J=132   S=0    E=75   
